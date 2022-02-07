@@ -1,0 +1,89 @@
+﻿h1{
+  color:black;
+  font-family:georgia;
+}
+body{
+  background-color:pink;
+  color:blue;
+  font-size:18px;
+  padding:40px;
+}
+.d1{
+  padding:40px;
+  border-radius:8px;
+  background-color:lightblue;
+  box-shadow:5px 5px 10px #ccc;
+  width:50%;
+  margin:10px;
+  box sizing:border-box;
+  }
+.d2{
+  color:purple;
+  padding:30px;
+  border-radius:8px;
+  background-color:#fff;
+  box-shadow:5px 5px 10px #ccc;
+  text-align:left;
+  width:45%;
+  box sizing:border-box;
+  }
+.d2 h2{
+  margin-top:0;
+  }
+.d3{
+  color:purple;
+  padding:30px;
+  border-radius:8px;
+  background-color:#fff;
+  box-shadow:5px 5px 10px #ccc;
+  text-align:left;
+  width:50px;
+  box sizing:border-box;
+  }
+.d3:hover{
+  border:3px solid purple;
+  cursor:pointer;
+  background-color:white;
+  }
+.d4{
+  color:black;
+  padding:30px;
+  border-radius:8px;
+  background-color:lightgrey;
+  box-shadow:1px 2px 10px #ccc;
+  text-align:left;
+  width:30%;
+  box sizing:border-box;
+  }
+.d4 h3{
+  margin-top:0;
+  }
+.d5{
+  font-size:15px;
+  color:purple;
+  width:30%;
+  border-radius:15px;
+  padding:30px;
+  background-color:white;
+  box-shadow:5px 5px 10px #ccc;
+  text-align:left;
+  }
+.d5 table{
+  column-width:200px;
+  }
+.button{
+  color:purple;
+  padding:10px;
+  border-radius:8px;
+  background-color:#fff;
+  box-shadow:5px 5px 10px #ccc;
+  text-align:left;
+  width:50px;
+  box sizing:border-box;
+  }
+.button:hover{
+  border:3px solid purple;
+  cursor:pointer;
+  background-color:white;
+  }
+
